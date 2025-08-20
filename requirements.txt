@@ -1,0 +1,12 @@
+﻿ultralytics==8.3.0
+opencv-python
+numpy
+scipy
+shapely
+filterpy
+lapx # or 'lap' depending on platform
+deep-sort-realtime
+fastapi
+uvicorn[standard]
+pydantic
+matplotlib
