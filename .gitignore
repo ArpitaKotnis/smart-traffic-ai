@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit temp files
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE folders
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Model weights (optional, if you want to ignore large models)
+# yolov5s.pt
+# yolov5su.pt
+
+# Output videos (if you generate them)
+output.mp4
+*.avi
+*.mov
